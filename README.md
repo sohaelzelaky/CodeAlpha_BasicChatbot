@@ -26,9 +26,4 @@ To build a small interactive chatbot that replies to user messages using simple 
   - "bye" → "Goodbye!"
 - Handles unknown inputs gracefully.
 
----
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/CodeAlpha_BasicChatbot.git
